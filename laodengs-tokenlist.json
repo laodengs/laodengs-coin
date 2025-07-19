@@ -1,0 +1,14 @@
+{
+    "name": "My LAODENGS Token List",
+    "tokens": [
+      {
+        "chainId": 97,
+        "address": "0x74DFE5751c8F19FB90fa3e8Dc698af56321f3b6E",
+        "symbol": "LAODENGS",
+        "name": "LAODENGS Token",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/你的用户名/仓库名/main/laodengs.png"
+      }
+    ]
+  }
+  
